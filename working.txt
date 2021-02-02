@@ -1,0 +1,6 @@
+This is the very first project I tried using just JavaScript. This is a very small and simple project. It has four dice each corresponding to a player. The Roll Dice option is used to roll all the dice. The player with the highest number is the WINNER. if two or more player has the same number then the game is DRAW. 
+
+Working:
+All the four scores of the players in an array.
+then used the math.max() function to find the largest among them,
+and wrote a simple function isDraw() which returns true if there are duplicates in the array ie. same scores for more than one player.
